@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#248937</color>
+    <color name="yellow1">#97C83C</color>
+    <color name="yellow2">#248937</color>
+    <color name="select">#F67A1A</color>
+
+    <color name="selectedColor">#F67A1A</color> <!-- Selected item color -->
+    <color name="unselectedColor">#808080</color> <!-- Unselected item color -->
+
+    <color name="statusBarColor">#0AD0EB</color>
+    <color name="teal_200">#0AD0EB</color>
+    <color name="teal_700">#087EC2</color>
+    <color name="bottom_nav_background">#ffff</color>
+
+
+
+
+
+</resources>
